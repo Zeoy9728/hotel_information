@@ -1,0 +1,12 @@
+clustering,classification,,,,Data mining queries,database processing queries
+,,,,,Find students who prefer physical class(clustering),to find the students majoring Computer Science in the faculty that are female
+,,,,,Identify students whose favorite colors(clustering),To find animals that are mammals
+,,,,,Seperate fruits from meat(clustering),to find furniture that is made of wood
+,,,,,To identify undergraduate and graduate(classification),to find shoppers who consumed more than 10000 ringgit
+,,,,,To identify french fries and mashed potatoes(classi,to find saplings that are higher than 3 meters
+,,,,,,
+,,,,,Find room type of the hotel,Find customers that has deposit in the hotel
+,,,,,Find meals each customer has,
+,,,,,"Identify the group of adults, children, and babies in the hotel(classification_",
+,,,,,Identify the distribution channel of each customer coming to the hotel,
+,,,,,Identify the market segment of each customer coming to the hotel,
